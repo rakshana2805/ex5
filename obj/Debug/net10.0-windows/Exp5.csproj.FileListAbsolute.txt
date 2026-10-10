@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c# LAB\Exp5\bin\Debug\net10.0-windows\Exp5.exe
+C:\Users\Admin\Desktop\c# LAB\Exp5\bin\Debug\net10.0-windows\Exp5.deps.json
+C:\Users\Admin\Desktop\c# LAB\Exp5\bin\Debug\net10.0-windows\Exp5.runtimeconfig.json
+C:\Users\Admin\Desktop\c# LAB\Exp5\bin\Debug\net10.0-windows\Exp5.dll
+C:\Users\Admin\Desktop\c# LAB\Exp5\bin\Debug\net10.0-windows\Exp5.pdb
+C:\Users\Admin\Desktop\c# LAB\Exp5\obj\Debug\net10.0-windows\Exp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c# LAB\Exp5\obj\Debug\net10.0-windows\Exp5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c# LAB\Exp5\obj\Debug\net10.0-windows\Exp5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c# LAB\Exp5\obj\Debug\net10.0-windows\Exp5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c# LAB\Exp5\obj\Debug\net10.0-windows\Exp5.dll
+C:\Users\Admin\Desktop\c# LAB\Exp5\obj\Debug\net10.0-windows\refint\Exp5.dll
+C:\Users\Admin\Desktop\c# LAB\Exp5\obj\Debug\net10.0-windows\Exp5.pdb
+C:\Users\Admin\Desktop\c# LAB\Exp5\obj\Debug\net10.0-windows\Exp5.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c# LAB\Exp5\obj\Debug\net10.0-windows\ref\Exp5.dll
